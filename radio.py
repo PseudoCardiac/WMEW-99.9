@@ -6,7 +6,7 @@ from time import sleep
 
 
 mixer.init()
-PADDING_TIME = 1
+PADDING_TIME = 0
 
 
 class Radio:
