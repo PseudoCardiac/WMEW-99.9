@@ -219,3 +219,6 @@ __marimo__/
 
 # music files
 radio/
+
+# icon files
+*.ico

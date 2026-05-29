@@ -1,6 +1,8 @@
 from random import choice
 from playlist import Playlist
 from state import State, NEXT
+import os
+os.environ[ "PYGAME_HIDE_SUPPORT_PROMPT" ] = '1'
 from pygame import mixer
 from time import sleep
 
