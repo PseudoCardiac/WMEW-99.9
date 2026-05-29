@@ -1,6 +1,6 @@
 [![kr](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-003e89)](https://github.com/PseudoCardiac/WMEW-99.9/blob/main/README.md) [![en](https://img.shields.io/badge/English-cfa64d)](https://github.com/PseudoCardiac/WMEW-99.9/blob/main/README.en.md) [![jp](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-bc002d)](https://github.com/PseudoCardiac/WMEW-99.9/blob/main/README.jp.md)
 
-# 용도
+# 개요
 
 이 프로그램은 비디오 게임 Mewgenics에 등장하는 가상의 라디오 'WMEW 99.9'(를 재구성한 무언가)를 시스템 콘솔에서 실행합니다. 음악뿐만 아니라 뉴스, 콜 레터, 음악 코멘터리, 그리고 광고까지 청취할 수 있습니다.
 
